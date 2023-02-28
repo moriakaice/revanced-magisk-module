@@ -104,3 +104,8 @@ arch = "arm64-v8a"
 build-mode = "module"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
+
+[irplus]
+build-mode = "module"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
