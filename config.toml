@@ -109,3 +109,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 build-mode = "module"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
+
+[NovaPrime]
+build-mode = "module"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/"
