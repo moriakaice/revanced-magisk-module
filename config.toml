@@ -42,16 +42,17 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 arch = "both"
 
 [Twitter]
-build-mode = "apk"
+build-mode = "module"
 excluded-patches = "hide-views-stats"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Twitch]
-build-mode = "apk"
+build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [TikTok]
+build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
 [Reddit]
@@ -89,9 +90,17 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/appest-inc/ticktick-to-do-list-
 arch = "arm64-v8a"
 
 [Tasker]
-enabled = false
+build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 
 [Photomath]
 enabled = false
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
+
+[irplus]
+build-mode = "module"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
+
+[NovaPrime]
+build-mode = "module"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/"
