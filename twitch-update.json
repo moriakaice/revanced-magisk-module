@@ -1,6 +1,6 @@
 {
-  "version": "v16.1.0",
-  "versionCode": 29,
-  "zipUrl": "https://github.com/moriakaice/revanced-magisk-module/releases/download/29/twitch-revanced-magisk-v16.1.0-all.zip",
+  "version": "v16.9.1",
+  "versionCode": 36,
+  "zipUrl": "https://github.com/moriakaice/revanced-magisk-module/releases/download/36/twitch-revanced-magisk-v16.9.1-all.zip",
   "changelog": "https://raw.githubusercontent.com/moriakaice/revanced-magisk-module/update/build.md"
 }
