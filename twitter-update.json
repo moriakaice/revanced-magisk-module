@@ -1,6 +1,6 @@
 {
   "version": "v10.19.0-release.0",
-  "versionCode": 42,
-  "zipUrl": "https://github.com/moriakaice/revanced-magisk-module/releases/download/42/twitter-revanced-magisk-v10.19.0-release.0-all.zip",
+  "versionCode": 43,
+  "zipUrl": "https://github.com/moriakaice/revanced-magisk-module/releases/download/43/twitter-revanced-magisk-v10.19.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/moriakaice/revanced-magisk-module/update/build.md"
 }
