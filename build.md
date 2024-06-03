@@ -1,8 +1,9 @@
+Twitch: 16.9.1  
+Reddit: 2024.17.0  
 Twitter: 10.43.0-release.0  
 Lightroom: 9.3.0  
+YouTube: 19.16.39  
 Strava: 320.12  
-Twitch: 16.9.1  
-YouTube: 19.11.43  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -10,6 +11,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.9.2.apk  
-Patches: ReVanced/revanced-patches-4.8.3.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.8.3)  
+Integrations: ReVanced/revanced-integrations-1.10.0.apk  
+Patches: ReVanced/revanced-patches-4.9.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.9.0)  
